@@ -4,8 +4,8 @@ This repository contains the code and additional data for my master thesis about
 
 Google Colaboratory notebooks:
 
-Fine-Tuning BERT.ipynb
-Fine-Tuning DistilBERT.ipynb
+Fine-Tuning BERT.ipynb /
+Fine-Tuning DistilBERT.ipynb /
 Fine-Tuning RoBERTa.ipynb
 -> fine-tuning of the LMs with full abstract input
 
