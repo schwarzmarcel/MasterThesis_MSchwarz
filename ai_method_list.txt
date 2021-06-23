@@ -1,0 +1,167 @@
+Natural language processing | natural language processing, nlp  
+Machine Translation | 
+Named entity recognition |  ner ,entity recognition
+Term recognition | 
+Natural language generation | natural language generation, nlg 
+Question answering | 
+Sentiment analysis | 
+Ontology learning | 
+Context recognition | 
+Text summarization | 
+Text mining | text mining,literature mining
+Discourse analysis | 
+Speech recognition | 
+Knowledge Representation | knowledge representation,knowledge engineering
+Knowledge Bases | 
+Semantic Web | 
+Rule-based reasoning | rule based
+Expert Systems | 
+Hand-crafted rules | 
+Fuzzy logic | fuzzy
+Heuristic search algorithms | heuristic search
+Partial-order planning | 
+Satplan | 
+Optimum path forest | 
+Distributed artificial intelligence | 
+Multi-task learning | multitask learning,multi task learning
+Multi-agent systems | multi agent
+Swarm intelligence | 
+Ant colony optimization | ant colony optimi
+Artificial bee colony | 
+Particle swarm optimization | particle swarm optimi
+Fruit fly optimization algorithm | 
+Computer vision | computer vision,machine perception,machine vision
+Image recognition | 
+Scene understanding | 
+Activity recognition | activity recognition,activity understanding
+Gesture recognition | gesture recognition,gesture detection
+Motion recognition | motion recognition,motion detection
+Facial recognition | facial recognition,face recognition
+Emotion detection | emotion detection,emotion recognition
+Video summarization | 
+Image segmentation | image segmentation,automated segmentation
+Image analysis | image analysis,image processing,image analytics
+Video segmentation | 
+Shape inference | 
+Object recognition | object detection,object identification,object recognition,obstacle recognition
+Spatial recognition | spatial recognition,depth representation
+Visual tracking | visual tracking,object tracking
+Image reconstruction | image reconstruction,3d reconstruction
+Image matching | image matching,feature matching,template matching
+Resnet | 
+ImageNet | 
+Machine learning | machine learning, ml ,learning algorithm,prediction algorithm,prediction model,knowledge aquisition,knowledge extraction
+Extreme learning machine | 
+Supervised learning |  supervised learning,imitation learning
+Semi-supervised learning | 
+Structured outputs | 
+Reinforcement learning | 
+Adversarial learning | 
+Transfer learning | transfer learning,pre trained
+Deep learning | 
+Decision tree | 
+AdaBoost | 
+Ensemble methods | ensemble
+Boosting | 
+Bagging | 
+Random forest | 
+k-nearest-neighbor algorithm | k nearest neighbo, k nn , knn  
+Perceptron algorithm | perceptron
+K-means | k means
+c-means | c means
+DBSCAN | 
+Support vector machines | support vector machine, svm 
+Support vector regression | 
+naive bayes  | naive bayes,naïve bayes
+Artificial neural networks | neural network, nn , ann 
+Autoencoder | 
+Deep neural network | deep neural network, dnn 
+Deep belief network | 
+Recurrent neural network | recurrent neural network, rnn 
+Long short term memory network | long short term memory, lstm 
+Generative adversarial network | generative adversarial network, gan 
+Convolutional neural network | convolutional neural network,convolution neural network,convolutional network, cnn 
+Self-organizing map | self organizing map, som 
+Feed-forward neural network | feed forward neural network,feedforward neural network,feed forward nn, feedforward nn,constructive neural network
+Spiking neural network | spiking neural network, snn 
+Radial basis function network | radial basis function network,radial basis network,rbf network,radial basis neural network, radial basis function neural network
+Deep residual network | 
+Probabilistic neural network | probabilistic neural network, pnn 
+Bayesian network models | bayesian network,bayesian model
+Latent Dirichlet allocation | 
+Conditional random field | conditional random field, crf
+Rule learning | 
+Artificial life | 
+Artificial immune system | 
+Genetic algorithms | 
+Evolutionary robotics | 
+Multi-armed bandit algorithm | armed bandit
+Graph algorithms | graph algorithms,graph based algorithms
+Markov network | 
+Autoregressive model | autoregressi
+Simulated annealing | 
+Kalman filter | 
+markov models | markov model
+Markov random field | 
+Boltzmann machine | 
+Bootstrapping | 
+Jackknifing | jackknif
+Regression analysis | 
+Robust regression | 
+Linear regression | 
+Bayesian regression | 
+Logistic Regression | 
+Lasso regression | lasso
+Poisson regression | 
+Binomial regression | 
+Time series analysis | 
+Survival analysis | 
+Cox proportional hazards model | cox regression,cox proportional hazards
+Monte Carlo methods | monte carlo
+Evolutionary algorithms | evolutionary computation,evolutionary algorithm
+Randomized local search | 
+Hill climbing | 
+Beam search | 
+Minimax algorithm | minimax
+Negamax algorithm | negamax
+Alpha-beta pruning | 
+A* search | 
+Deepmind | 
+Computation of equilibria | computation of equilibri,equilibria computation,equilibrium computation
+Nash equilibria | nash equilibri
+Data mining | information retrieval,data mining,big data,data science,data extraction
+Data analysis | data analysis,data analytics
+Pattern matching | 
+Language model | 
+Transformer models | transformer
+Document filtering | 
+Recommender systems | 
+Expert search | 
+Clustering | cluster
+Classification | classifi
+Summarization | text summar,document summar,data summar,extractive summar,abstractive summar
+Image search | image search,image retrieval
+Video search | video search,video retrieval
+Web mining | web mining,web retrieval
+Spam detection | 
+Cognitive computing | 
+Affective computing | 
+Human computer interaction |  hci ,human machine interaction,human machine interface,human computer interface
+Virtual reality | 
+Virtual assistants | 
+Chatbots | 
+Decision support systems | decision support,decision model
+Ubiquitous computing | ubiquitous,pervasive,mobile computing
+Mobile computing | mobile computing,mobile app, smartphone app
+Ambient intelligence | 
+Internet-of-things | 
+Location based services | 
+Smart applications | smart
+Wearables | 
+Embedded systems | embedded
+Robotic autonomy | autonomous robot,robotic autonomy
+Brain-computer interfaces | brain computer interface, bci 
+Neuroprosthetics | 
+Robot-assisted surgery | robotic assisted,robot assisted
+Autonomous vehicles | autonomous vehicle,self driving
+XGBoost | 
