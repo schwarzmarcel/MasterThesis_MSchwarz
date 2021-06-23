@@ -4,21 +4,21 @@ This repository contains the code and additional data for my master thesis about
 
 Google Colaboratory notebooks:
 
-Fine-Tuning BERT.ipynb /
-Fine-Tuning DistilBERT.ipynb /
-Fine-Tuning RoBERTa.ipynb
+Fine-Tuning_BERT.ipynb /
+Fine-Tuning_DistilBERT.ipynb /
+Fine-Tuning_RoBERTa.ipynb
 -> fine-tuning of the LMs with full abstract input
 
-Fine-Tuning Single Sent.ipynb
+Fine-Tuning_Single Sent.ipynb
 -> fine-tuning of the LMs with sentence input
 
-DAPT BERT sentence pairs.ipynb
+DAPT_BERT_sentence_pairs.ipynb
 -> domain-adaptive pre-training for BERT with sentence pairs
 
-DAPT full abstracts.ipynb
+DAPT_full_abstracts.ipynb
 -> dapt with MLM on full abstracts
 
-AI Method Evaluation.ipynb
+AI_Method_Evaluation.ipynb
 -> code for the evaluating the ability of the models to include AI methods
 
 
